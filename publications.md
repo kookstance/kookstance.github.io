@@ -8,7 +8,7 @@
 
 4.	**Cao KJ**, Elbel KM, Cifelli JL, Cirera J, Sigurdson CJ, Paesani F, Theodorakis EA, and Yang J. [“Solvation-guided design of fluorescent probes for discrimination of amyloids”](https://www.nature.com/articles/s41598-018-25131-2). Scientific Reports, **2018**, 8, 6950.
 
-5.	Berry MH, Holt A, Levitz J, Broichhagen J, Gaub BM, Visel M, Stanley C, Aghi K, Kim YJ, **Cao KJ**, Kramer RH, Trauner D, Flannery J, and Isacoff EY “Restoration of patterned vision with an engineered photoactivatable G protein-coupled receptor”. Nature Communications, **2017**, 8, 1862.
+5.	Berry MH, Holt A, Levitz J, Broichhagen J, Gaub BM, Visel M, Stanley C, Aghi K, Kim YJ, **Cao KJ**, Kramer RH, Trauner D, Flannery J, and Isacoff EY [“Restoration of patterned vision with an engineered photoactivatable G protein-coupled receptor”](https://www.nature.com/articles/s41467-017-01990-7). Nature Communications, **2017**, 8, 1862.
 
 6.	Koyanagi T, **Cao KJ**, Leriche G, Onofrei D, Holland GP, Mayer M, Sept D, and Yang J. [“Hybrid lipids inspired by extremophiles and eukaryotes afford serum-stable membranes with low leakage”](https://onlinelibrary.wiley.com/doi/full/10.1002/chem.201701378). Chemistry – A European Journal, **2017**, 23, 6757.
 
