@@ -2,7 +2,7 @@
 
 1. **Cao KJ**, Lyons EF, Smith BE, Denlinger BL, Ma H, Shirian JD, and Kramer RH. "Cyclodextrin-assisted delivery of azobenzene photoswitches for uniform and long-term restoration of light responses in degenerated retinas of blind mice". **2021** *Submitted
 
-2.	**Cao KJ**, Kim JH, Kroeger K, Gaffney PM, Lin JH, Sigurdson CJ, and Yang J. ["ARCAM-1 Enables Fluorescence Detection of Amyloid-Containing Deposits in the Retina"](https://tvst.arvojournals.org/article.aspx?articleid=2772671). **2021**, 10, 5.
+2.	**Cao KJ**, Kim JH, Kroeger K, Gaffney PM, Lin JH, Sigurdson CJ, and Yang J. ["ARCAM-1 Enables Fluorescence Detection of Amyloid-Containing Deposits in the Retina"](https://tvst.arvojournals.org/article.aspx?articleid=2772671). Translational Vision Science & Technology, **2021**, 10, 5.
 
 3.	Gonzalez MA\*, Walker AS\*, **Cao KJ**, Lazzari-Dean JR, Settineri NS, Kramer RH, and Miller EW. [“Voltage imaging with a NIR-absorbing phosphine oxide rhodamine voltage reporter”](https://pubs.acs.org/doi/10.1021/jacs.0c11382). Journal of the American Chemical Society, **2021**, 143, 2304. *equal contribution 
 
